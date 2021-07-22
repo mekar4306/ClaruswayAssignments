@@ -15,6 +15,6 @@ if num.isdigit():
 else:
     print("It is an invalid entry. Don't use non-numeric, float, or negative values!")
 
-    Mehmet Feature file
+
 
 
